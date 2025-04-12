@@ -32,3 +32,14 @@
    cd git-it-right-91210
 
 2. Follow the instructions in the docs/ or tutorials/ directory to begin.
+
+
+### Project Structure
+
+git-it-right-91210/
+├── exercises/        # Step-by-step practice scenarios
+├── docs/             # Markdown documentation and guides
+├── solutions/        # Suggested solutions for each exercise
+├── .gitignore
+├── README.md
+└── LICENSE
